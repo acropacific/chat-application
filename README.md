@@ -6,7 +6,7 @@ Following are the details to get started with NodeJS
 
 ```javascript
 sudo apt-get update
-sudo apt-get install nodejs
+sudo apt-get install nodejs-legacy
 sudo apt-get install npm
 ```
 
