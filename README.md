@@ -87,6 +87,10 @@ http.listen(3000, function(){
 </html>
 ```
 
-Point your browser to http://localhost:3000
--------------------------------
+* Now open terminal and run below command
+```javascript
+node index.js
+```
+* Point your browser to http://localhost:3000
+
 ### Thanks
