@@ -1,5 +1,6 @@
-# chat-application
+# Chat Application
 Following are the details to get started with NodeJS
+
 
 ## Install Node.JS and NPM
 
@@ -10,6 +11,7 @@ sudo apt-get install npm
 ```
 
 ## Create Chat application
+-------------------------------
 
 * First let’s create a package.json manifest file that describes our project. I recommend you place it in a dedicated empty directory.
 ```javascript
@@ -86,5 +88,5 @@ http.listen(3000, function(){
 ```
 
 * Point your browser to http://localhost:3000
-
+-------------------------------
 ### Thanks
