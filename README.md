@@ -8,8 +8,13 @@ Following are the details to get started with NodeJS
 sudo apt-get update
 sudo apt-get install nodejs
 sudo apt-get install npm
+npm install mysql
 ```
 
+* To check node js installed, run following command in terminal
+```javascript
+ node -v
+```
 ## Create Chat application
 -------------------------------
 
