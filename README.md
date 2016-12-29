@@ -84,3 +84,7 @@ http.listen(3000, function(){
   </body>
 </html>
 ```
+
+* Point your browser to http://localhost:3000
+
+### Thanks
