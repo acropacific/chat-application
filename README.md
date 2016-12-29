@@ -8,7 +8,6 @@ Following are the details to get started with NodeJS
 sudo apt-get update
 sudo apt-get install nodejs
 sudo apt-get install npm
-npm install mysql
 ```
 
 * To check node js installed, run following command in terminal
@@ -31,6 +30,7 @@ npm install mysql
 ```javascript
 npm install --save express@4.10.2
 npm install --save socket.io
+npm install mysql
 ```
 * Now that express and socket.io is installed we can create an index.js file that will setup our application.
 ```javascript
