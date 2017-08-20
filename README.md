@@ -14,6 +14,10 @@ sudo apt-get install npm
 ```javascript
  node -v
 ```
+
+To manage different version of nodejs for different project you can use either [NVM](https://github.com/creationix/nvm) or [N](https://github.com/tj/n) module. Check it out!
+
+
 ## Create Chat application
 -------------------------------
 
@@ -98,4 +102,3 @@ node index.js
 ```
 * Point your browser to http://localhost:3000
 
-### Thanks
