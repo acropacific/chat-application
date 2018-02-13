@@ -1,4 +1,4 @@
-# Chat Application
+# Chat Application for camsite
 Following are the details to get started with NodeJS
 
 
